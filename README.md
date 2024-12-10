@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Facial emotion Recognition + Recommendation Syster**
+- 🔭 I’m currently working on **Sleep Spindle Detection**
 
-- 🌱 I’m currently learning **Mathematics required for Deep Learning**
+- 🌱 I’m currently learning **Neural Networks**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PR-ODINSON](https://github.com/PR-ODINSON)
 
 - 💬 Ask me about **Machine learning, Deep Learning, Tensorflow ,Torch**
 
-- 📫 How to reach me **prithraj120@gmail.com**
+- 📫 How to reach me **i.prv.2509@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1B0s2m3O0kj2QejD6HISnId_YObHT2VJ7/view?usp=drive_link](https://drive.google.com/file/d/1B0s2m3O0kj2QejD6HISnId_YObHT2VJ7/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1B0s2m3O0kj2QejD6HISnId_YObHT2VJ7/view?usp=drive_link](https://drive.google.com/file/d/1LSC_5v-mlcG1v2lE8uIz-U4y4osNTyD1/view?usp=sharing)
 
 - ⚡ Fun fact **I can code without coffee LOL!**
 
