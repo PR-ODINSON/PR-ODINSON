@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prithviraj Verma</h1>
-<h3 align="center">B.Tech Undergrad working in Machine learning, Deep learning.</h3>
+<h3 align="center">B.Tech Undergrad working in AI/ML and Backend Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pr-odinson&label=Profile%20views&color=0e75b6&style=flat" alt="pr-odinson" /> </p>
 
@@ -26,8 +26,7 @@
 - ⚡ Fun fact **I can code without coffee LOL!**
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
