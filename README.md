@@ -17,7 +17,7 @@
 
 - All my Blogs are Available at [https://medium.com/@_Odinson_](https://medium.com/@_Odinson_)
 
-- 💬 Ask me about **How to win Hackathons and Data Science**
+- 💬 Ask me about **How to win Hackathons and Roadmap for Data Science**
 
 - 📫 How to reach me **i.prv.2509@gmail.com**
 
