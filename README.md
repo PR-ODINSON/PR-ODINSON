@@ -25,8 +25,6 @@
 
 - ⚡ Fun fact **I can code without coffee LOL!**
 
-### Blogs posts
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
