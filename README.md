@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/prithviraj59729" target="blank"><img src="https://img.shields.io/twitter/follow/prithviraj59729?logo=twitter&style=for-the-badge" alt="prithviraj59729" /></a> </p>
 
-- 🔭 I’m currently working on **Sleep Spindle Detection**
+- 🔭 I’m currently working on **Emotion Recognition using PPG signals**
 
-- 🌱 I’m currently learning **Neural Networks and LLMs**
+- 🌱 I’m currently learning **Generative AI**
 
 - Looking for Collaboration on **Mindscan: Suggestive Automated Mental Health Identification System**
 
