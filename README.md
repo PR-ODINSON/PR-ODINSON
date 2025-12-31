@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **How to win Hackathons and Roadmap for Data Science**
 
-- 📫 How to reach me **i.prv.2509@gmail.com**
+- 📫 How to reach me **prithraj120@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1B0s2m3O0kj2QejD6HISnId_YObHT2VJ7/view?usp=drive_link](https://drive.google.com/file/d/1B0s2m3O0kj2QejD6HISnId_YObHT2VJ7/view?usp=drive_link)
 
